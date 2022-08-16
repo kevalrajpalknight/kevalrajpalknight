@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
 </div>
+
 ---
 
 
@@ -34,6 +35,7 @@
   - :zap: In my free time, I solve problems on Hackerrank [![Hackerrank Badge](https://img.shields.io/badge/-Keval-green?style=flat&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/kevalrajpal2580) and read tech articles.
 
   - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Keval-tomato?style=flat&logo=Gmail&logoColor=white)](mailto:kevalrajpal2580@gmail.com)
+
 ---
 
 
@@ -47,12 +49,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
 </div>
+
 ---
 
 
 
 ### :fire: My Stats :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevalrajpalknight&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="Keval Rajpal Github stats" />
+
 ---
 
 
