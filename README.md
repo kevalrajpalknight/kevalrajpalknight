@@ -7,9 +7,6 @@
     <a href="mailto:kevalrajpal2580@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://twitter.com/kevalrajpal">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=kevalrajpalknight&style=flat-square&color=blue" alt=""/>
   </div>
