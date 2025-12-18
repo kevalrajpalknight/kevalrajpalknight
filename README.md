@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym94bm96Ym94bm96Ym94bm96Ym94bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://linkedin.com/in/keval-rajpal">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,53 +8,51 @@
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=kevalrajpalknight&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=kevalrajpalknight&style=flat-square&color=blue" alt="Profile Views"/>
   </div>
   <h1>
-    hey there
+    Hey, I'm Keval Rajpal 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <h3>AI Engineer | GenAI Specialist | Software Engineer II</h3>
 </div>
+
+---
+
+### 🧠 Professional Profile
+I am a **Software Engineer II** with 3+ years of experience specializing in **Generative AI (GenAI)** and **Agentic AI systems**. I bridge the gap between complex AI models and scalable full-stack architectures.
+
+- 🤖 **Core Focus:** Building autonomous agents and production-grade **RAG pipelines** using **LangChain** and **LangGraph**.
+- 🛠️ **Current Work:** Leading AI initiatives at **HashedIn by Deloitte**, focusing on OpenAI integrations and dynamic workflow orchestration.
+- 🔭 **Expertise:** Architecting zero-code RAG pipelines and high-performance API services.
+- 🌱 **Learning:** Currently diving deeper into Multi-Agent Orchestration and advanced Prompt Engineering.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI & LLM** | **LangChain**, **Agentic AI**, **RAG**, Prompt Engineering, OpenAI API |
+| **Backend** | **Python**, **Django**, **FastAPI**, Node.js, Express.js  |
+| **Frontend** | **ReactFlow**, Next.js, React, TypeScript, TailwindCSS |
+| **Databases** | **ChromaDB** (Vector DB), PostgreSQL, SQL |
+
+---
+
+### 🌟 Featured AI Project: Schema Pipe
+**[Schema Pipe](https://github.com/kevalrajpalknight/schema-pipe)** is a zero-code **RAG pipeline** designed to transform unstructured PDFs into validated JSON data using a user-defined schema.
+- **Tech Stack:** FastAPI, LangChain, Next.js, and ChromaDB.
+
+---
+
+### 📈 GitHub Ecosystem
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevalrajpalknight&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="Keval Rajpal Github stats" />
 </div>
 
 ---
 
-
-
-### :man_technologist: About Me :
-  I am a Full Stack Python/Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - :telescope: I’m looking for full-time job oppurtunity as Full Stack Django Developer.
-
-  - :seedling: Exploring Technical Content Creator [![Instagram Badge](https://img.shields.io/badge/-knight.coder.army-pink?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/knight.coder.army).
-
-  - :zap: In my free time, I solve problems on Hackerrank [![Hackerrank Badge](https://img.shields.io/badge/-Keval-green?style=flat&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/kevalrajpal2580) and read tech articles.
-
-  - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Keval-tomato?style=flat&logo=Gmail&logoColor=white)](mailto:kevalrajpal2580@gmail.com)
-
----
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" **alt="Tailwindcss" width="60" height="60"/>
-</div>
-
----
-
-
-
-### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevalrajpalknight&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="Keval Rajpal Github stats" />
-
----
-
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [keval-rajpal](https://linkedin.com/in/keval-rajpal)
+- ⚡ **Problem Solving:** [HackerRank](https://www.hackerrank.com/kevalrajpal2580), [LeetCode](https://leetcode.com/u/kevalrajpal/)
