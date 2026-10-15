@@ -20,7 +20,7 @@
 ---
 
 ### 🧠 Professional Profile
-I am a **Software Engineer II** with 3+ years of experience specializing in **Generative AI (GenAI)** and **Agentic AI systems**. I bridge the gap between complex AI models and scalable full-stack architectures.
+I am a **Software Engineer II** with 4+ years of experience specializing in **Generative AI (GenAI)** and **Agentic AI systems**. I bridge the gap between complex AI models and scalable full-stack architectures.
 
 - 🤖 **Core Focus:** Building autonomous agents and production-grade **RAG pipelines** using **LangChain** and **LangGraph**.
 - 🛠️ **Current Work:** Leading AI initiatives at **HashedIn by Deloitte**, focusing on OpenAI integrations and dynamic workflow orchestration.
@@ -33,10 +33,12 @@ I am a **Software Engineer II** with 3+ years of experience specializing in **Ge
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & LLM** | **LangChain**, **Agentic AI**, **RAG**, Prompt Engineering, OpenAI API |
+| **AI & LLM** | **LangGraph**, **Agentic AI**, **RAG**, Langchain, Inference Engineering, Pydantic, Prompt Engineering |
 | **Backend** | **Python**, **Django**, **FastAPI**, Node.js, Express.js  |
 | **Frontend** | **ReactFlow**, Next.js, React, TypeScript, TailwindCSS |
 | **Databases** | **ChromaDB** (Vector DB), PostgreSQL, SQL |
+| **Deployment** | **K8s**, docker, helm charts |
+| **Cloud & Infra** | **AWS** and Azure  |
 
 ---
 
